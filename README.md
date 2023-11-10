@@ -1,6 +1,6 @@
 # Controle de Estoque - Sistema Pré-Desenvolvido
 
-![Logo do Projeto]([link_para_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pumasistemas.com.br%2Fsolucao%2F1%2Fgestao-de-estoque&psig=AOvVaw2MMaIxPFe6FFGT7a8vBecU&ust=1699726537988000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDwifyEuoIDFQAAAAAdAAAAABAE)) <!-- Substitua com o link para o logo do seu projeto, se aplicável -->
+![Logo do Projeto]([[link_para_logo.png](https://www.pumasistemas.com.br/assets/uploads/solucoes/1/6409d54e9c7b1aavo4l.webp)] <!-- Substitua com o link para o logo do seu projeto, se aplicável -->
 
 Este repositório contém um sistema de controle de estoque pré-desenvolvido, projetado para proporcionar uma solução leve e rápida para gerenciamento eficiente de inventário. O sistema utiliza um banco de dados baseado em Excel, utilizando a biblioteca openpyxl.
 
